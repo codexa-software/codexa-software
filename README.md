@@ -1,16 +1,48 @@
-## Hi there 👋
+# 💻 CODEXA
 
-<!--
-**codexa-software/codexa-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CODEXA** es un proyecto enfocado en el desarrollo de software y soluciones tecnológicas.  
+Creamos demos, prototipos y proyectos enfocados en:
 
-Here are some ideas to get you started:
+- Desarrollo de software a medida  
+- Aplicaciones web  
+- Sistemas y soluciones digitales  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Qué encontrarás aquí
+En esta cuenta encontrarás:
+- Demos técnicas
+- Proyectos de referencia
+- Prototipos de software
+- Experimentos tecnológicos
+
+📌 **Nota importante**  
+Todos los proyectos en esta cuenta son **propios e independientes**  
+y **no están afiliados ni relacionados con empleos anteriores o terceros**.
+
+---
+
+## 🛠️ Stack tecnológico
+- JavaScript / TypeScript  
+- Angular  
+- Node.js  
+- HTML / CSS  
+- Git & GitHub  
+
+---
+
+## 📂 Repositorios
+Los repositorios públicos funcionan como:
+- Portafolio técnico
+- Ejemplos de arquitectura
+- Referencias para clientes y colaboradores
+
+---
+
+## 📫 Contacto
+📧 hello.codexa@outlook.com
+🌐 (Sitio web próximamente)
+
+---
+
+> CODEXA es un proyecto en crecimiento enfocado en soluciones tecnológicas.
