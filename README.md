@@ -26,7 +26,8 @@ y **no están afiliados ni relacionados con empleos anteriores o terceros**.
 - JavaScript / TypeScript  
 - Angular  
 - Node.js  
-- HTML / CSS  
+- HTML / CSS
+- SCSS (Sass)
 - Git & GitHub  
 
 ---
@@ -40,7 +41,7 @@ Los repositorios públicos funcionan como:
 ---
 
 ## 📫 Contacto
-📧 hello.codexa@outlook.com
+📧 hello.codexa@outlook.com <br>
 🌐 (Sitio web próximamente)
 
 ---
